@@ -7,7 +7,7 @@ export const profile = {
   role: 'IT Student Intern · System Development',
   tagline:
     'BS Information Technology student specializing in System Development. I build web-based systems with Python, Flask, and SQL, from backend logic and databases to the interfaces people use every day.',
-  photo: '/images/profile.svg', // palitan ng /images/profile.jpg kapag may photo ka na
+  photo: '/images/profile.jpg',
   resume: '/resume.pdf',
   email: 'melbournebiticon@gmail.com',
   location: 'Majayjay, Laguna, Philippines',
